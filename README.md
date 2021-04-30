@@ -1,1 +1,1 @@
-Yüz ifadelerini emojilere dönüştürebilen bir Python Uygulam
+Yüz ifadelerini emojilere dönüştürebilen bir Python Uygulaması.
